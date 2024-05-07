@@ -1,7 +1,3 @@
-Here’s the further updated README to include the use of `.env` files for managing environment variables:
-
----
-
 # GitHub Deployment Automation Project
 
 This repository contains scripts and tools for automating deployment processes via GitHub Apps, focusing on tasks such as downloading specific releases, tags, or branches from private GitHub repositories.
