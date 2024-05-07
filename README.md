@@ -74,7 +74,3 @@ Utilize the provided Python script to automate your GitHub deployment tasks, ext
 ### Contributing
 
 If you're interested in improving the GitHub Deployment Automation Project, please fork the repository and submit pull requests.
-
----
-
-This version of the README now includes details on how to configure `.env` files for environment variables, providing flexibility and security for managing sensitive data.
